@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Creating a new branch is quick AND simple.
 6666666
 push dev
+dev 6666
